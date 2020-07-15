@@ -1,5 +1,5 @@
 # Amazon-Prototype
-A distributed Amazon Prototype application using React, Node, Kafka, Redis, MongoDB and MySQL.
+A distributed Amazon Prototype application built using React, Node, Kafka, Redis, MongoDB and MySQL.
 
 ## Running
 
